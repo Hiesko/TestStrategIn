@@ -1,0 +1,18 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.users-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.user-card {
+    width: 30%;
+    background-color: #f2f2f2;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
